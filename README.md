@@ -101,7 +101,7 @@ except sr.RequestError as e:
 
 except Exception as e:
     print("Error:", e)
-    ```
+```
 
 ## Output:
 
